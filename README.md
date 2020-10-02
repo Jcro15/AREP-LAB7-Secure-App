@@ -8,9 +8,9 @@ Esta aplicación se desplegó sobre máquinas EC2 de AWS, la comunicación entre
 
 ## Repositorios asociados
 
-![Repositorio Lógica](https://github.com/Jcro15/AREP-LAB7-Secure-App-Logic)
+[Repositorio Lógica](https://github.com/Jcro15/AREP-LAB7-Secure-App-Logic)
 
-![Repositorio Login](https://github.com/Jcro15/AREP-LAB7-Secure-App-Login)
+[Repositorio Login](https://github.com/Jcro15/AREP-LAB7-Secure-App-Login)
 
 ## Pre-requisitos
 * [Maven](https://maven.apache.org/) - Administrador de dependencias
