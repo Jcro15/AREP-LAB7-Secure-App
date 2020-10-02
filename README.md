@@ -21,7 +21,7 @@ Esta aplicación se desplegó sobre máquinas EC2 de AWS, la comunicación entre
 
 Para descargar el proyecto se debe usar 
 ```
-git clone https://github.com/Jcro15/TallerAllSecureAppSpark.git
+git clone https://github.com/Jcro15/AREP-LAB7-Secure-App.git
 ```
 
 
